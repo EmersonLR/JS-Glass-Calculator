@@ -1,2 +1,2 @@
 # JS-Glass-Calculator
- alculator With JavaScript | CSS Glassmorphism Effects 
+ Calculator With JavaScript | CSS Glassmorphism Effects 
